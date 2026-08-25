@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Abdul Rahim
 
-### 💻 Software Engineering Student | Full-Stack Web Developer
+### 💻 Software Engineering Student | Full-Stack Developer | MERN Stack Developer
 
-I'm a **Software Engineering student** passionate about building modern, responsive, and user-friendly web applications.
+I'm a Software Engineering student passionate about building **modern, responsive, and scalable web applications**.
 
 I enjoy turning ideas into real-world projects and continuously improving my skills in **Frontend Development, React.js, Backend Development, REST APIs, and Full-Stack Engineering**.
 
@@ -11,13 +11,13 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
 ## 🚀 About Me
 
 * 🎓 BS Software Engineering Student
-* 💻 Passionate about Web & Full-Stack Development
+* 💻 Passionate about Full-Stack Web Development
 * ⚛️ Currently working with **React.js**
-* 🌐 Learning the **MERN Stack**
-* 🔌 Experienced with REST API integration
+* 🌐 Learning and building with the **MERN Stack**
+* 🔌 Interested in REST APIs and backend development
 * 🗄️ Working with **MySQL & MongoDB**
-* 🎨 Interested in modern UI/UX and responsive design
-* 🧩 Focused on reusable and maintainable React components
+* 🎨 Love creating responsive and modern UI/UX
+* 🧩 Interested in reusable and maintainable React architecture
 * 🚀 Building real-world projects to improve my development skills
 * 📚 Always learning and exploring new technologies
 
@@ -25,28 +25,28 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools
+### 🔧 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
@@ -55,12 +55,12 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
 
 ### 🏥 HealthEase AI
 
-An online healthcare and doctor appointment platform designed to make healthcare access easier.
+An online healthcare and doctor appointment platform designed to simplify healthcare access.
 
-**Key Features**
+**Features**
 
 * 👨‍⚕️ Doctor Profiles
-* 📅 Appointment Booking
+* 📅 Online Appointment Booking
 * 💬 Patient-Doctor Communication
 * 📹 Online Consultation
 * 🔔 Notifications
@@ -69,7 +69,7 @@ An online healthcare and doctor appointment platform designed to make healthcare
 * 🗺️ Doctor Location
 * 🤖 AI-powered healthcare features
 
-**Technologies:** Django · MySQL · HTML · CSS · JavaScript · Bootstrap · APIs
+**Tech:** Django · MySQL · HTML · CSS · JavaScript · Bootstrap · APIs
 
 ---
 
@@ -77,7 +77,7 @@ An online healthcare and doctor appointment platform designed to make healthcare
 
 A modern web application for managing wedding hall operations and bookings.
 
-**Key Features**
+**Features**
 
 * 📅 Booking Management
 * 🧾 Invoice Generation
@@ -89,46 +89,50 @@ A modern web application for managing wedding hall operations and bookings.
 * 📊 Dashboard Analytics
 * 🔐 Authentication & Authorization
 
-**Technologies:** React.js · JavaScript · REST APIs · Axios · CSS
+**Tech:** React.js · JavaScript · REST APIs · Axios · CSS
 
 ---
 
-### 👑 Admin Dashboard System
+### ⚡ CNG Pump Management System
 
-A role-based administration system with separate dashboards for different user roles.
+A role-based management system designed for CNG pump administration.
 
-**Key Features**
+**Features**
 
-* 🔐 Authentication
-* 🛡️ Protected Routes
 * 👑 Super Admin Dashboard
 * 👤 Admin Dashboard
+* 🔐 Authentication
+* 🛡️ Protected Routes
 * 📊 Dashboard Statistics
 * 👥 User Management
-* 🏢 Pump Management
+* ⛽ Pump Management
 * 🔄 REST API Integration
 * 📱 Responsive Design
 
-**Technologies:** React.js · React Router · Axios · REST APIs · CSS
+**Tech:** React.js · React Router · Axios · REST APIs · CSS
 
 ---
 
 ## 🌱 Currently Learning
 
 ```text
+HTML / CSS
+     ↓
+JavaScript
+     ↓
 React.js
-   ↓
-Advanced React Architecture
-   ↓
+     ↓
+REST APIs
+     ↓
 Node.js
-   ↓
+     ↓
 Express.js
-   ↓
+     ↓
 MongoDB
-   ↓
+     ↓
 MERN Stack
-   ↓
-Full-Stack Development
+     ↓
+Full-Stack Development 🚀
 ```
 
 Currently focusing on:
@@ -150,86 +154,118 @@ Currently focusing on:
 
 I believe good software should be:
 
-* ♻️ Reusable
-* 🧩 Modular
-* 📱 Responsive
-* 🔐 Secure
-* 🚀 Scalable
-* 🧹 Maintainable
+**♻️ Reusable** · **🧩 Modular** · **📱 Responsive** · **🔐 Secure** · **🚀 Scalable** · **🧹 Maintainable**
 
-I try to apply principles such as:
+I try to follow:
 
-**Separation of Concerns (SoC)**
-**Single Responsibility Principle (SRP)**
-**Reusable Components**
-**Clean Architecture**
+* Separation of Concerns (SoC)
+* Single Responsibility Principle (SRP)
+* Reusable Components
+* Clean Code
+* Modular Architecture
+* Responsive Design
+* API-driven Architecture
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raheemkhan12345&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=raheemkhan12345&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Abdul Rahim's GitHub Stats"
+  />
+</p>
+
+---
+
+## 💻 Top Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raheemkhan12345&theme=tokyonight&hide_border=true" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheemkhan12345&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Abdul Rahim's Top Languages"
+  />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=raheemkhan12345&theme=tokyonight)
-
----
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raheemkhan12345&layout=compact&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=raheemkhan12345&theme=tokyonight&hide_border=true"
+    alt="Abdul Rahim's GitHub Streak"
+  />
+</p>
 
 ---
 
 ## 📈 My Development Journey
 
 ```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-Bootstrap
-     ↓
-React.js
-     ↓
-REST APIs
-     ↓
-Backend Development
-     ↓
-MERN Stack
-     ↓
-Full-Stack Software Engineer 🚀
+🌐 Web Fundamentals
+        ↓
+🎨 HTML + CSS + Bootstrap
+        ↓
+⚡ JavaScript
+        ↓
+⚛️ React.js
+        ↓
+🔌 REST APIs
+        ↓
+🟢 Node.js + Express.js
+        ↓
+🍃 MongoDB
+        ↓
+🚀 MERN Stack
+        ↓
+💻 Full-Stack Software Engineer
 ```
+
+---
+
+## 🎯 Current Goals
+
+* 🚀 Become a strong Full-Stack Developer
+* ⚛️ Master React.js
+* 🟢 Build production-ready Node.js applications
+* 🍃 Improve MongoDB skills
+* 🔐 Build secure authentication systems
+* 🏗️ Learn scalable software architecture
+* 🌍 Deploy and maintain real-world applications
+* 🤝 Contribute to open-source projects
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
+
 <a href="https://github.com/raheemkhan12345">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/abdul-rahim-07224824a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 </p>
 
 ---
 
-## 💡 My Goal
+## 💡 My Philosophy
 
-> **Build real-world applications. Learn continuously. Write better software.**
+> **Build. Learn. Improve. Repeat.**
 
-I'm working toward becoming a strong **Full-Stack Software Engineer** by building practical projects, improving my problem-solving skills, and continuously learning modern web technologies.
+I'm working toward becoming a strong **Full-Stack Software Engineer** by building practical projects, improving my problem-solving skills, and continuously learning modern technologies.
+
+---
 
 ### ⭐ Thanks for visiting my profile!
 
-Feel free to explore my repositories and follow my development journey.
+**Feel free to explore my repositories and follow my development journey.**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raheemkhan12345&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
