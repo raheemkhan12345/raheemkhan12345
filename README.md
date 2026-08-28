@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raheemkhan12345&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 # 👋 Hi, I'm Abdul Rahim
 
 ### 💻 Software Engineering Student | Full-Stack Developer | MERN Stack Developer
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=raheemkhan12345&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 I'm a Software Engineering student passionate about building **modern, responsive, and scalable web applications**.
 
