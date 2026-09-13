@@ -32,50 +32,18 @@ Currently, my main focus is **React.js and modern frontend development**, while 
 
 # 🚀 About Me
 
-const abdulRahim = {
-    role: "Frontend Developer",
-
-    mainStack: [
-        "React.js",
-        "JavaScript",
-        "HTML5",
-        "CSS3",
-        "Tailwind CSS"
-    ],
-
-    frontend: [
-        "React Hooks",
-        "React Router",
-        "Context API",
-        "Reusable Components",
-        "Responsive UI"
-    ],
-
-    api: [
-        "REST APIs",
-        "Axios",
-        "Fetch",
-        "CRUD Operations"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Figma",
-        "Postman",
-        "Vite"
-    ],
-
-    learning: [
-        "Node.js",
-        "Express.js",
-        "MongoDB"
-    ],
-
-    goal: "Become a strong Full-Stack Developer 🚀"
-};
-
+Frontend Developer at CodexDev
+⚛️ Strong focus on React.js & JavaScript
+🎨 Passionate about modern and responsive UI development
+🔌 Experienced in REST API integration
+🧩 Interested in reusable and maintainable React components
+🛡️ Experience with protected and role-based routing
+📊 Experience building dashboard and management systems
+🔄 Familiar with Axios, React Router, Context API, and React Hooks
+🌿 Experienced with Git & GitHub collaborative workflows
+📱 Focused on responsive web development
+🌱 Currently expanding my knowledge of Node.js, Express.js, and MongoDB
+🚀 Continuously building real-world projects and improving my development skills
 ---
 
 # 🛠️ Tech Stack
