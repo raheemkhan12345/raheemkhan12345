@@ -1,8 +1,28 @@
+<!-- ===================== ANIMATED HEADER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Abdul%20Rahim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
+</p>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+
+<p align="center">
+  <a href="https://github.com/raheemkhan12345">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+React.js;Building+Modern+%26+Responsive+Web+Applications;React+%7C+JavaScript+%7C+REST+APIs;Turning+Ideas+Into+Real-World+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raheemkhan12345&label=PROFILE+VIEWS&color=3b82f6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+---
+
 # 👋 Hi, I'm Abdul Rahim
 
-### 💻 Frontend Developer | React.js Developer
+### 💻 Frontend Developer focused on React.js
 
-I'm a **Frontend Developer** with hands-on experience building modern, responsive, and user-focused web applications using **React.js, HTML5, CSS3, Tailwind CSS, REST APIs, and Git/GitHub**.
+I'm a **Frontend Developer** with hands-on experience building modern, responsive, and user-focused web applications using **React.js, JavaScript, HTML5, CSS3, Tailwind CSS, REST APIs, and Git/GitHub**.
 
 I enjoy transforming ideas and designs into **clean, reusable, responsive, and maintainable interfaces**.
 
@@ -10,25 +30,53 @@ Currently, my main focus is **React.js and modern frontend development**, while 
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a **Frontend Developer** focused on building modern, responsive, and user-friendly web applications with **React.js and modern frontend technologies**.
+```javascript
+const abdulRahim = {
+    role: "Frontend Developer",
 
-I enjoy turning ideas and designs into **clean, reusable, responsive, and maintainable interfaces**.
+    mainStack: [
+        "React.js",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS"
+    ],
 
-### 🚀 What I Do
+    frontend: [
+        "React Hooks",
+        "React Router",
+        "Context API",
+        "Reusable Components",
+        "Responsive UI"
+    ],
 
-* ⚛️ Build modern applications with **React.js**
-* 🎨 Create responsive and user-friendly interfaces
-* 🧩 Develop reusable React components
-* 🔌 Integrate REST APIs using **Axios and Fetch**
-* 🔐 Implement authentication and authorization
-* 🛡️ Build protected and role-based routes
-* 📊 Develop dashboards and management systems
-* 📝 Handle forms and user input
-* 🐛 Debug and troubleshoot frontend issues
-* 🌿 Work with Git and GitHub
-* 📱 Build mobile-responsive interfaces
+    api: [
+        "REST APIs",
+        "Axios",
+        "Fetch",
+        "CRUD Operations"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Figma",
+        "Postman",
+        "Vite"
+    ],
+
+    learning: [
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    ],
+
+    goal: "Become a strong Full-Stack Developer 🚀"
+};
+```
 
 ---
 
@@ -36,33 +84,57 @@ I enjoy turning ideas and designs into **clean, reusable, responsive, and mainta
 
 ## 🎨 Frontend
 
-`HTML5` • `CSS3` • `React.js` • `Tailwind CSS` • `CSS Modules` • `Responsive Design`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap" />
+</p>
+
+<p align="center">
+  <b>HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS • Bootstrap</b>
+</p>
 
 ---
 
 ## ⚛️ React & Frontend Development
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="70"/>
+</p>
+
+<p align="center">
+
 `React Hooks` • `useState` • `useEffect` • `Context API` • `React Router` • `Protected Routes` • `Role-Based Routing` • `Reusable Components`
+
+</p>
 
 ---
 
 ## 🔌 APIs & Backend Integration
 
-`REST APIs` • `Axios` • `Fetch API` • `CRUD Operations` • `JSON` • `API Integration` • `Error Handling`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,nodejs,express" />
+</p>
+
+<p align="center">
+
+`REST APIs` • `Axios` • `Fetch API` • `CRUD` • `JSON` • `API Integration` • `Error Handling`
+
+</p>
 
 ---
 
 ## 🗄️ Databases
 
-Currently learning:
-
-`MongoDB` • `MySQL`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ---
 
 ## 🔧 Development Tools
 
-`Git` • `GitHub` • `VS Code` • `Figma` • `Postman` • `Vite`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite" />
+</p>
 
 ---
 
@@ -114,7 +186,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### 🛠️ Tech
 
-`React.js` `React Router` `Axios` `REST APIs` `CSS`
+`React.js` `JavaScript` `React Router` `Axios` `REST APIs` `CSS`
 
 ---
 
@@ -140,7 +212,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### 🛠️ Tech
 
-`React.js` `React Router` `CSS Modules` `Axios` `REST APIs`
+`React.js` `JavaScript` `React Router` `CSS Modules` `Axios` `REST APIs`
 
 ---
 
@@ -170,7 +242,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### 🛠️ Tech
 
-`React.js` `React Router` `Context API` `CSS`
+`React.js` `JavaScript` `React Router` `Context API` `CSS`
 
 ---
 
@@ -190,7 +262,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### 🛠️ Tech
 
-`React.js` `React Router` `CSS`
+`React.js` `JavaScript` `CSS` `React Router`
 
 ---
 
@@ -212,7 +284,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### 🛠️ Tech
 
-`Django` `Python` `MySQL` `HTML` `CSS` `Bootstrap`
+`Django` `Python` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
 
 ---
 
@@ -236,51 +308,72 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 # 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raheemkhan12345&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheemkhan12345&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
+</p>
+
 ---
 
 # 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raheemkhan12345&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
 ---
 
 # 📈 Contribution Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raheemkhan12345&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
 ---
 
 # 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raheemkhan12345/raheemkhan12345/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-### ⚛️ React.js
+<p align="center">
+
+### React.js
 
 ⬇️
 
-### 🚀 Advanced Frontend Development
+### Advanced Frontend Development
 
 ⬇️
 
-### 🔌 REST API Integration
+### REST API Integration
 
 ⬇️
 
-### 🟢 Node.js
+### Node.js
 
 ⬇️
 
-### 🚂 Express.js
+### Express.js
 
 ⬇️
 
-### 🍃 MongoDB
+### MongoDB
 
 ⬇️
 
-### 💚 MERN Stack
+### MERN Stack
 
 ⬇️
 
-### 🚀 Full-Stack Development
+### Full-Stack Development 🚀
+
+</p>
 
 ---
 
@@ -325,3 +418,29 @@ I believe the best way to improve as a developer is by **building real-world pro
 ---
 
 # 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/raheemkhan12345">
+<img src="https://img.shields.io/badge/GitHub-Abdul%20Rahim-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdul-rahim-07224824a/">
+<img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together 🚀</i>
+</p>
