@@ -305,35 +305,9 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=raheemkhan12345&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-  alt="Abdul Rahim's GitHub Statistics"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheemkhan12345&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-  alt="Abdul Rahim's Top Languages"
-/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=raheemkhan12345&theme=tokyonight&hide_border=true&border_radius=12" /> </p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raheemkhan12345&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
 
 ---
 
