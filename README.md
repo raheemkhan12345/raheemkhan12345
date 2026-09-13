@@ -32,51 +32,50 @@ Currently, my main focus is **React.js and modern frontend development**, while 
 
 # 🚀 About Me
 
-```javascript
-const abdulRahim = {
-    role: "Frontend Developer",
+### 👨‍💻 Role
 
-    mainStack: [
-        "React.js",
-        "JavaScript",
-        "HTML5",
-        "CSS3",
-        "Tailwind CSS"
-    ],
+**Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
 
-    frontend: [
-        "React Hooks",
-        "React Router",
-        "Context API",
-        "Reusable Components",
-        "Responsive UI"
-    ],
+### ⚛️ Main Stack
 
-    api: [
-        "REST APIs",
-        "Axios",
-        "Fetch",
-        "CRUD Operations"
-    ],
+* ⚛️ React.js
+* 🧩 HTML5
+* 🎨 CSS3
+* 🌊 Tailwind CSS
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Figma",
-        "Postman",
-        "Vite"
-    ],
+### 🎯 Frontend Development
 
-    learning: [
-        "Node.js",
-        "Express.js",
-        "MongoDB"
-    ],
+* ⚛️ React Hooks
+* 🔄 React Router
+* 🌐 Context API
+* 🧩 Reusable Components
+* 📱 Responsive UI
 
-    goal: "Become a strong Full-Stack Developer 🚀"
-};
-```
+### 🔌 API Integration
+
+* 🌐 REST APIs
+* 📡 Axios
+* 🔄 Fetch
+* 🛠️ CRUD Operations
+
+### 🔧 Development Tools
+
+* 🌿 Git
+* 🐙 GitHub
+* 💻 VS Code
+* 🎨 Figma
+* 📮 Postman
+* ⚡ Vite
+
+### 🌱 Currently Learning
+
+* 🟢 Node.js
+* 🚀 Express.js
+* 🍃 MongoDB
+
+### 🚀 Goal
+
+Become a strong **Full-Stack Developer** and continue building real-world applications.
 
 ---
 
