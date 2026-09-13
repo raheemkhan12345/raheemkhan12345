@@ -4,20 +4,20 @@
 
 ### 💻 Frontend Developer | React.js Developer | Future MERN Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+React.js;Building+Modern+Responsive+Web+Apps;React+%7C+JavaScript+%7C+REST+APIs;Learning+Node.js+%7C+Express.js+%7C+MongoDB;Future+MERN+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+**Building modern, responsive and user-focused web applications with React.js 🚀**
 
 <br/>
 
 <a href="https://github.com/raheemkhan12345">
-<img src="https://komarev.com/ghpvc/?username=raheemkhan12345&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=raheemkhan12345&label=Profile%20Views&style=flat" alt="Profile Views"/>
 </a>
 
 <a href="https://github.com/raheemkhan12345?tab=followers">
-<img src="https://img.shields.io/github/followers/raheemkhan12345?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/raheemkhan12345?label=Followers&style=flat" alt="GitHub Followers"/>
 </a>
 
 <a href="https://github.com/raheemkhan12345?tab=repositories">
-<img src="https://img.shields.io/github/stars/raheemkhan12345?label=Stars&style=flat&color=yellow" alt="GitHub Stars"/>
+<img src="https://img.shields.io/github/stars/raheemkhan12345?label=Stars&style=flat" alt="GitHub Stars"/>
 </a>
 
 </div>
@@ -30,60 +30,30 @@ I'm a **Frontend Developer** with hands-on experience building modern, responsiv
 
 I enjoy transforming ideas and designs into **clean, reusable, responsive, and maintainable interfaces**.
 
-Currently, my main focus is **React.js and modern frontend development**, while I am expanding my backend knowledge to move toward **Full-Stack JavaScript Development and the MERN Stack**.
+### 🚀 What I Do
 
-```javascript
-const abdulRahim = {
-    role: "Frontend Developer",
+- ⚛️ Build modern applications with **React.js**
+- 🎨 Create responsive and user-friendly interfaces
+- 🧩 Develop reusable React components
+- 🔌 Integrate REST APIs using Axios and Fetch
+- 🔐 Implement authentication and authorization
+- 🛡️ Build protected and role-based routes
+- 📊 Develop dashboards and management systems
+- 🐛 Debug and troubleshoot frontend issues
+- 🌿 Work with Git and GitHub
+- 📱 Build mobile-responsive interfaces
 
-    specialization: "React.js & Modern Frontend Development",
+### 🌱 Currently Learning
 
-    frontend: [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "React.js",
-        "Tailwind CSS"
-    ],
+- 🟢 Node.js
+- ⚡ Express.js
+- 🍃 MongoDB
+- 💚 MERN Stack
+- 🚀 Full-Stack JavaScript Development
 
-    react: [
-        "React Hooks",
-        "useState",
-        "useEffect",
-        "Context API",
-        "React Router",
-        "Protected Routes",
-        "Role-Based Routing",
-        "Reusable Components"
-    ],
+### 🎯 My Goal
 
-    api: [
-        "REST APIs",
-        "Axios",
-        "Fetch API",
-        "CRUD Operations",
-        "JSON",
-        "Error Handling"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Figma",
-        "Postman",
-        "Vite"
-    ],
-
-    currentlyLearning: [
-        "Node.js",
-        "Express.js",
-        "MongoDB"
-    ],
-
-    goal: "Become a strong Full-Stack MERN Developer 🚀"
-};
-```
+> **Become a strong Full-Stack MERN Developer and build scalable real-world applications.**
 
 ---
 
@@ -97,9 +67,7 @@ const abdulRahim = {
 
 </p>
 
-### Frontend Skills
-
-`HTML5` • `CSS3` • `JavaScript` • `React.js` • `Tailwind CSS` • `Responsive Design`
+`HTML5` • `CSS3` • `JavaScript` • `React.js` • `Tailwind CSS` • `Vite` • `Responsive Design`
 
 ---
 
@@ -117,11 +85,11 @@ const abdulRahim = {
 
 ## 🔌 API & Backend Integration
 
-`REST APIs` • `Axios` • `Fetch API` • `CRUD Operations` • `JSON` • `API Integration` • `Error Handling` • `Async/Await` • `Promises`
+`REST APIs` • `Axios` • `Fetch API` • `CRUD Operations` • `JSON` • `API Integration` • `Error Handling` • `Promises` • `Async/Await`
 
 ---
 
-## 🗄️ Database & Backend — Currently Learning
+## 🗄️ Backend & Database
 
 <p align="left">
 
@@ -130,6 +98,8 @@ const abdulRahim = {
 </p>
 
 `Node.js` • `Express.js` • `MongoDB` • `MySQL`
+
+> 🌱 Backend technologies are currently part of my learning journey.
 
 ---
 
@@ -153,17 +123,17 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### What I Work On
 
-* ⚛️ React.js application development
-* 🎨 Responsive UI implementation
-* 🧩 Reusable React components
-* 🔌 REST API integration
-* 🛡️ Protected & role-based routes
-* 📊 Dashboard development
-* 📝 Form handling
-* 🔄 API-driven data
-* 🐛 Debugging & troubleshooting
-* 🌿 Git/GitHub collaboration
-* 📱 Mobile-responsive interfaces
+- ⚛️ React.js application development
+- 🎨 Responsive UI implementation
+- 🧩 Reusable React components
+- 🔌 REST API integration
+- 🛡️ Protected & role-based routes
+- 📊 Dashboard development
+- 📝 Form handling
+- 🔄 API-driven data
+- 🐛 Debugging & troubleshooting
+- 🌿 Git/GitHub collaboration
+- 📱 Mobile-responsive interfaces
 
 ---
 
@@ -175,21 +145,21 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### ✨ Features
 
-* 👑 Super Admin Dashboard
-* 👤 Admin Dashboard
-* 🔐 Authentication
-* 🛡️ Protected Routes
-* 🔑 Role-Based Access
-* 📊 Dashboard Statistics
-* ⛽ Pump Management
-* 💰 Sales Management
-* 💸 Expense Management
-* 🏦 Cash & Bank Management
-* 💳 Loan Management
-* 📑 Reports & Transactions
-* 📄 Pagination
-* 🔌 REST API Integration
-* 📱 Responsive Design
+- 👑 Super Admin Dashboard
+- 👤 Admin Dashboard
+- 🔐 Authentication
+- 🛡️ Protected Routes
+- 🔑 Role-Based Access
+- 📊 Dashboard Statistics
+- ⛽ Pump Management
+- 💰 Sales Management
+- 💸 Expense Management
+- 🏦 Cash & Bank Management
+- 💳 Loan Management
+- 📑 Reports & Transactions
+- 📄 Pagination
+- 🔌 REST API Integration
+- 📱 Responsive Design
 
 ### 🛠️ Tech Stack
 
@@ -203,19 +173,19 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### ✨ Features
 
-* 📅 Booking Management
-* 🏛️ Hall Management
-* 📦 Package / Menu Management
-* 🧾 Invoice Generation
-* 💰 Financial Management
-* 📊 Dashboard
-* 📈 Reports
-* 📆 Calendar
-* 🔔 Notifications
-* 🔐 Authentication
-* 🛡️ Protected Routes
-* 🔌 REST API Integration
-* 📱 Responsive Design
+- 📅 Booking Management
+- 🏛️ Hall Management
+- 📦 Package / Menu Management
+- 🧾 Invoice Generation
+- 💰 Financial Management
+- 📊 Dashboard
+- 📈 Reports
+- 📆 Calendar
+- 🔔 Notifications
+- 🔐 Authentication
+- 🛡️ Protected Routes
+- 🔌 REST API Integration
+- 📱 Responsive Design
 
 ### 🛠️ Tech Stack
 
@@ -229,23 +199,23 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### 👥 User Roles
 
-| Role                | Purpose                       |
-| ------------------- | ----------------------------- |
-| 👨‍🎓 Student       | Learning & student activities |
-| 👨‍🏫 Teacher       | Teaching & course management  |
-| 👨‍👩‍👦 Parent     | Student monitoring            |
-| 👨‍💼 Administrator | System management             |
+| Role | Purpose |
+|------|---------|
+| 👨‍🎓 Student | Learning & student activities |
+| 👨‍🏫 Teacher | Teaching & course management |
+| 👨‍👩‍👦 Parent | Student monitoring |
+| 👨‍💼 Administrator | System management |
 
 ### ✨ Features
 
-* 📊 Role-Based Dashboards
-* 🔐 Authentication
-* 🛡️ Protected Routes
-* 👥 User Management
-* 📚 Learning Management
-* 🧩 Reusable Components
-* 🧭 Role-Based Navigation
-* 📱 Responsive UI
+- 📊 Role-Based Dashboards
+- 🔐 Authentication
+- 🛡️ Protected Routes
+- 👥 User Management
+- 📚 Learning Management
+- 🧩 Reusable Components
+- 🧭 Role-Based Navigation
+- 📱 Responsive UI
 
 ### 🛠️ Tech Stack
 
@@ -259,13 +229,13 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### ✨ Features
 
-* 🏢 Company Introduction
-* 💼 Services
-* 🚀 Projects
-* 🎨 Modern UI
-* 📱 Responsive Design
-* 🧩 Reusable Components
-* 🧭 React Router Navigation
+- 🏢 Company Introduction
+- 💼 Services
+- 🚀 Projects
+- 🎨 Modern UI
+- 📱 Responsive Design
+- 🧩 Reusable Components
+- 🧭 React Router Navigation
 
 ### 🛠️ Tech Stack
 
@@ -279,15 +249,15 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### ✨ Features
 
-* 👨‍⚕️ Doctor Profiles
-* 📅 Appointment Management
-* 💬 Patient-Doctor Communication
-* 📹 Online Consultation
-* 🔔 Notifications
-* 📄 Medical History
-* 💊 Prescription Management
-* 🗺️ Doctor Location
-* 🤖 AI-Powered Healthcare Features
+- 👨‍⚕️ Doctor Profiles
+- 📅 Appointment Management
+- 💬 Patient-Doctor Communication
+- 📹 Online Consultation
+- 🔔 Notifications
+- 📄 Medical History
+- 💊 Prescription Management
+- 🗺️ Doctor Location
+- 🤖 AI-Powered Healthcare Features
 
 ### 🛠️ Tech Stack
 
@@ -301,11 +271,11 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 ### ✨ Features
 
-* 🛍️ Product Interface
-* 🔎 Product Browsing
-* 📱 Responsive Design
-* 🎨 Modern UI
-* 🧩 Interactive Components
+- 🛍️ Product Interface
+- 🔎 Product Browsing
+- 📱 Responsive Design
+- 🎨 Modern UI
+- 🧩 Interactive Components
 
 ### 🛠️ Tech Stack
 
@@ -353,29 +323,31 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 </div>
 
-> ⚠️ **Note:** The Snake animation requires a GitHub Actions workflow in your profile repository. If you have not created the workflow yet, this image will not appear.
+> ⚠️ The Snake animation requires a GitHub Actions workflow in your profile repository.
 
 ---
 
 # 🌱 Currently Learning
 
-```text
-⚛️ React.js
-      ↓
-🚀 Advanced Frontend Development
-      ↓
-🔌 REST API Integration
-      ↓
-🟢 Node.js
-      ↓
-⚡ Express.js
-      ↓
-🍃 MongoDB
-      ↓
-💚 MERN Stack
-      ↓
-🚀 Full-Stack Development
-```
+<div align="center">
+
+### ⚛️ React.js
+⬇️
+### 🚀 Advanced Frontend Development
+⬇️
+### 🔌 REST API Integration
+⬇️
+### 🟢 Node.js
+⬇️
+### ⚡ Express.js
+⬇️
+### 🍃 MongoDB
+⬇️
+### 💚 MERN Stack
+⬇️
+### 🚀 Full-Stack Development
+
+</div>
 
 ---
 
@@ -421,17 +393,17 @@ I believe the best way to improve as a developer is by **building real-world pro
 
 # 📚 What I'm Improving
 
-* ⚛️ Advanced React.js
-* 🧠 JavaScript fundamentals & advanced concepts
-* 🔌 REST API integration
-* 🔐 Authentication & authorization
-* 🛡️ Protected & role-based routing
-* 🎨 Responsive UI development
-* 🧩 Reusable component architecture
-* 🟢 Node.js
-* ⚡ Express.js
-* 🍃 MongoDB
-* 🚀 MERN Stack
+- ⚛️ Advanced React.js
+- 🧠 JavaScript fundamentals & advanced concepts
+- 🔌 REST API integration
+- 🔐 Authentication & authorization
+- 🛡️ Protected & role-based routing
+- 🎨 Responsive UI development
+- 🧩 Reusable component architecture
+- 🟢 Node.js
+- ⚡ Express.js
+- 🍃 MongoDB
+- 🚀 MERN Stack
 
 ---
 
@@ -456,7 +428,5 @@ I believe the best way to improve as a developer is by **building real-world pro
 ### ⭐ Thanks for visiting my profile!
 
 ### 🚀 Keep Building • Keep Learning • Keep Growing
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
 
 </div>
