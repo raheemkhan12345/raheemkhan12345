@@ -325,13 +325,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raheemkhan12345&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheemkhan12345&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
-
-</div>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=raheemkhan12345&theme=tokyonight&hide_border=true&border_radius=12" /> </p>
 
 ---
 
