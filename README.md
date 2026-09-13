@@ -307,10 +307,19 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raheemkhan12345&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheemkhan12345&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-</p>
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=raheemkhan12345&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+  alt="Abdul Rahim's GitHub Statistics"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheemkhan12345&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+  alt="Abdul Rahim's Top Languages"
+/>
+
+</div>
 
 ---
 
