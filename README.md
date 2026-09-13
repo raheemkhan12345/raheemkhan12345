@@ -32,7 +32,6 @@ Currently, my main focus is **React.js and modern frontend development**, while 
 
 # 🚀 About Me
 
-```javascript
 const abdulRahim = {
     role: "Frontend Developer",
 
@@ -76,7 +75,6 @@ const abdulRahim = {
 
     goal: "Become a strong Full-Stack Developer 🚀"
 };
-```
 
 ---
 
