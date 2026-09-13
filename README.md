@@ -1,112 +1,153 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Abdul%20Rahim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
-
-<p align="center">
-  <a href="https://github.com/raheemkhan12345">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+React.js;Building+Modern+%26+Responsive+Web+Applications;React+%7C+JavaScript+%7C+REST+APIs;Turning+Ideas+Into+Real-World+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raheemkhan12345&label=PROFILE+VIEWS&color=3b82f6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
+<div align="center">
 
 # 👋 Hi, I'm Abdul Rahim
 
-### 💻 Frontend Developer focused on React.js
+### 💻 Frontend Developer | React.js Developer | Future MERN Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+React.js;Building+Modern+Responsive+Web+Apps;React+%7C+JavaScript+%7C+REST+APIs;Learning+Node.js+%7C+Express.js+%7C+MongoDB;Future+MERN+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/raheemkhan12345">
+<img src="https://komarev.com/ghpvc/?username=raheemkhan12345&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/raheemkhan12345?tab=followers">
+<img src="https://img.shields.io/github/followers/raheemkhan12345?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/raheemkhan12345?tab=repositories">
+<img src="https://img.shields.io/github/stars/raheemkhan12345?label=Stars&style=flat&color=yellow" alt="GitHub Stars"/>
+</a>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
 
 I'm a **Frontend Developer** with hands-on experience building modern, responsive, and user-focused web applications using **React.js, JavaScript, HTML5, CSS3, Tailwind CSS, REST APIs, and Git/GitHub**.
 
 I enjoy transforming ideas and designs into **clean, reusable, responsive, and maintainable interfaces**.
 
-Currently, my main focus is **React.js and modern frontend development**, while I am also expanding my backend knowledge to move toward **Full-Stack JavaScript Development**.
+Currently, my main focus is **React.js and modern frontend development**, while I am expanding my backend knowledge to move toward **Full-Stack JavaScript Development and the MERN Stack**.
 
----
+```javascript
+const abdulRahim = {
+    role: "Frontend Developer",
 
-# 🚀 About Me
+    specialization: "React.js & Modern Frontend Development",
 
-Frontend Developer at CodexDev
-⚛️ Strong focus on React.js & JavaScript
-🎨 Passionate about modern and responsive UI development
-🔌 Experienced in REST API integration
-🧩 Interested in reusable and maintainable React components
-🛡️ Experience with protected and role-based routing
-📊 Experience building dashboard and management systems
-🔄 Familiar with Axios, React Router, Context API, and React Hooks
-🌿 Experienced with Git & GitHub collaborative workflows
-📱 Focused on responsive web development
-🌱 Currently expanding my knowledge of Node.js, Express.js, and MongoDB
-🚀 Continuously building real-world projects and improving my development skills
+    frontend: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React.js",
+        "Tailwind CSS"
+    ],
+
+    react: [
+        "React Hooks",
+        "useState",
+        "useEffect",
+        "Context API",
+        "React Router",
+        "Protected Routes",
+        "Role-Based Routing",
+        "Reusable Components"
+    ],
+
+    api: [
+        "REST APIs",
+        "Axios",
+        "Fetch API",
+        "CRUD Operations",
+        "JSON",
+        "Error Handling"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Figma",
+        "Postman",
+        "Vite"
+    ],
+
+    currentlyLearning: [
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    ],
+
+    goal: "Become a strong Full-Stack MERN Developer 🚀"
+};
+```
+
 ---
 
 # 🛠️ Tech Stack
 
 ## 🎨 Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+
 </p>
 
-<p align="center">
-  <b>HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS • Bootstrap</b>
-</p>
+### Frontend Skills
+
+`HTML5` • `CSS3` • `JavaScript` • `React.js` • `Tailwind CSS` • `Responsive Design`
 
 ---
 
-## ⚛️ React & Frontend Development
+## ⚛️ React Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="70"/>
-</p>
+<p align="left">
 
-<p align="center">
-
-`React Hooks` • `useState` • `useEffect` • `Context API` • `React Router` • `Protected Routes` • `Role-Based Routing` • `Reusable Components`
+<img src="https://skillicons.dev/icons?i=react" />
 
 </p>
+
+`React Hooks` • `useState` • `useEffect` • `Context API` • `React Router` • `Protected Routes` • `Role-Based Routing` • `Reusable Components` • `Component-Based Architecture`
 
 ---
 
-## 🔌 APIs & Backend Integration
+## 🔌 API & Backend Integration
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,nodejs,express" />
-</p>
-
-<p align="center">
-
-`REST APIs` • `Axios` • `Fetch API` • `CRUD` • `JSON` • `API Integration` • `Error Handling`
-
-</p>
+`REST APIs` • `Axios` • `Fetch API` • `CRUD Operations` • `JSON` • `API Integration` • `Error Handling` • `Async/Await` • `Promises`
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Database & Backend — Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
 </p>
+
+`Node.js` • `Express.js` • `MongoDB` • `MySQL`
 
 ---
 
 ## 🔧 Development Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
 </p>
+
+`Git` • `GitHub` • `VS Code` • `Figma` • `Postman` • `Vite`
 
 ---
 
 # 💼 Professional Experience
 
-### 👨‍💻 Frontend Developer — CodexDev
+## 👨‍💻 Frontend Developer — CodexDev
 
 I work on real-world frontend applications using **React.js and modern web technologies**.
 
@@ -150,7 +191,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 * 🔌 REST API Integration
 * 📱 Responsive Design
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
 
 `React.js` `JavaScript` `React Router` `Axios` `REST APIs` `CSS`
 
@@ -176,7 +217,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 * 🔌 REST API Integration
 * 📱 Responsive Design
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
 
 `React.js` `JavaScript` `React Router` `CSS Modules` `Axios` `REST APIs`
 
@@ -206,7 +247,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 * 🧭 Role-Based Navigation
 * 📱 Responsive UI
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
 
 `React.js` `JavaScript` `React Router` `Context API` `CSS`
 
@@ -226,7 +267,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 * 🧩 Reusable Components
 * 🧭 React Router Navigation
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
 
 `React.js` `JavaScript` `CSS` `React Router`
 
@@ -248,7 +289,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 * 🗺️ Doctor Location
 * 🤖 AI-Powered Healthcare Features
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
 
 `Django` `Python` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
 
@@ -266,7 +307,7 @@ I work on real-world frontend applications using **React.js and modern web techn
 * 🎨 Modern UI
 * 🧩 Interactive Components
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
 
 `HTML5` `CSS3` `JavaScript`
 
@@ -274,103 +315,98 @@ I work on real-world frontend applications using **React.js and modern web techn
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raheemkhan12345&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheemkhan12345&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raheemkhan12345&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheemkhan12345&layout=compact&hide_border=true&langs_count=8" width="48%" />
+
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=raheemkhan12345&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=raheemkhan12345&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raheemkhan12345&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raheemkhan12345&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raheemkhan12345/raheemkhan12345/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/raheemkhan12345/raheemkhan12345/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+> ⚠️ **Note:** The Snake animation requires a GitHub Actions workflow in your profile repository. If you have not created the workflow yet, this image will not appear.
 
 ---
 
 # 🌱 Currently Learning
 
-<p align="center">
-
-### React.js
-
-⬇️
-
-### Advanced Frontend Development
-
-⬇️
-
-### REST API Integration
-
-⬇️
-
-### Node.js
-
-⬇️
-
-### Express.js
-
-⬇️
-
-### MongoDB
-
-⬇️
-
-### MERN Stack
-
-⬇️
-
-### Full-Stack Development 🚀
-
-</p>
+```text
+⚛️ React.js
+      ↓
+🚀 Advanced Frontend Development
+      ↓
+🔌 REST API Integration
+      ↓
+🟢 Node.js
+      ↓
+⚡ Express.js
+      ↓
+🍃 MongoDB
+      ↓
+💚 MERN Stack
+      ↓
+🚀 Full-Stack Development
+```
 
 ---
 
 # 🎯 Current Focus
 
 ```text
-⚛️ React.js
-     │
-     ├── Reusable Components
-     ├── React Hooks
-     ├── Context API
-     ├── React Router
-     └── Protected Routes
-          │
-          ▼
-🔌 REST APIs
-     │
-     ├── Axios
-     ├── Fetch
-     ├── CRUD
-     └── Error Handling
-          │
-          ▼
-🌐 Full-Stack Development
-     │
-     ├── Node.js
-     ├── Express.js
-     └── MongoDB
-          │
-          ▼
-🚀 MERN Developer
+                    ⚛️ REACT.JS
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+    React Hooks     Reusable UI     React Router
+          │              │              │
+          └──────────────┼──────────────┘
+                         ↓
+                  🔌 REST APIs
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+        Axios          CRUD         Async/Await
+          │              │              │
+          └──────────────┼──────────────┘
+                         ↓
+               🌐 FULL-STACK DEVELOPMENT
+                         │
+             ┌───────────┼───────────┐
+             ↓           ↓           ↓
+          Node.js     Express.js   MongoDB
+             │           │           │
+             └───────────┼───────────┘
+                         ↓
+                  🚀 MERN DEVELOPER
 ```
 
 ---
@@ -383,30 +419,44 @@ I believe the best way to improve as a developer is by **building real-world pro
 
 ---
 
-# 🤝 Let's Connect
+# 📚 What I'm Improving
 
-<p align="center">
-
-<a href="https://github.com/raheemkhan12345">
-<img src="https://img.shields.io/badge/GitHub-Abdul%20Rahim-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abdul-rahim-07224824a/">
-<img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+* ⚛️ Advanced React.js
+* 🧠 JavaScript fundamentals & advanced concepts
+* 🔌 REST API integration
+* 🔐 Authentication & authorization
+* 🛡️ Protected & role-based routing
+* 🎨 Responsive UI development
+* 🧩 Reusable component architecture
+* 🟢 Node.js
+* ⚡ Express.js
+* 🍃 MongoDB
+* 🚀 MERN Stack
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%"/>
-</p>
+# 🤝 Let's Connect
 
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Let's build something amazing together 🚀</i>
-</p>
+<a href="https://github.com/raheemkhan12345">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### 🚀 Keep Building • Keep Learning • Keep Growing
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+
+</div>
